@@ -1,3 +1,10 @@
+# ur5-pickup
+ur5 visual capture
+
+This project refered to an open source github project, The author is [lihuang3](https://github.com/lihuang3/ur5_ROS-Gazebo)\
+I reconfigured it on my computer with Ubuntu18.04, ROS Melodic.
+
+The following is the original README file:
 ### Implementation of UR5 pick and place in ROS-Gazebo with a USB cam and vacuum grippers. 
 <p align="center">
 <img src="https://github.com/lihuang3/ur5_notebook/blob/master/media/demo1.gif" width="400">
